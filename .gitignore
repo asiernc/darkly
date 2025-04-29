@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+
+# Archivos de logs
+*.log
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Scrapy
+*.db
+*.sqlite3
+.scrapy/
+
+# Archivos de resultados
+result.log

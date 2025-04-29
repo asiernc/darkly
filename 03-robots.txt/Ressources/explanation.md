@@ -1,4 +1,4 @@
-# Bug Report - Directory Traversal Attack
+# Bug Report - .hidden directory robots.txt
 
 ##  Bug description
 
