@@ -2,7 +2,7 @@
 
 ##  Bug description
 
-
+The system does not properly validate the values submitted from the form in the backend, allowing an attacker to manipulate the parameters directly in the client source code. This allows sending values outside the allowed range and gaining unauthorised access, such as obtaining a flag.
 
 ## How did I find it?
 

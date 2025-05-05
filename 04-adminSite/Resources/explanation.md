@@ -2,7 +2,7 @@
 
 ##  Bug description
 
-
+The system exposes a `.htpasswd` file in a public directory, which allows an attacker to obtain administrator credentials. This file contains a password hash that can be easily decrypted using online tools, compromising the security of the administration site.
 
 ## How did I find it?
 
